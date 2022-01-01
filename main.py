@@ -2,7 +2,13 @@
 '''
 统计程序 V3.1.1
 by skl
-https://github.com/
+code on those websites:
+https://github.com/skl-814/-Statistics/tree/v3.1.1
+https://gitee.com/skl-814/statistics1
+
+git clone:
+https://github.com/skl-814/-Statistics.git
+https://gitee.com/skl-814/statistics1.git
 '''
 
 l,ll = [],[]
