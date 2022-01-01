@@ -2,7 +2,12 @@
 '''
 统计程序 V3.1.1
 by skl
-https://github.com/
+code on thosewebsites:
+https://github.com/skl-814/-Statisticstree/v3.1.1
+https://gitee.com/
+
+git clone:
+https://github.com/skl-814/-Statistics.git
 '''
 
 l,ll = [],[]
